@@ -1,0 +1,22 @@
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\DataAccess\bin\Debug\DataAccess.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\DataAccess\bin\Debug\DataAccess.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\DataAccess\bin\Debug\Common.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\DataAccess\bin\Debug\System.Data.SqlClient.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\DataAccess\bin\Debug\Common.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\DataAccess\bin\Debug\System.Data.SqlClient.xml
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\DataAccess\obj\Debug\DataAccess.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\DataAccess\obj\Debug\DataAccess.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\DataAccess\bin\Debug\DataAccess.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\DataAccess\bin\Debug\DataAccess.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\DataAccess\bin\Debug\Common.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\DataAccess\bin\Debug\System.Data.SqlClient.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\DataAccess\bin\Debug\Common.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\DataAccess\bin\Debug\System.Data.SqlClient.xml
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\DataAccess\obj\Debug\DataAccess.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\DataAccess\obj\Debug\DataAccess.pdb

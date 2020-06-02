@@ -1,0 +1,22 @@
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\Domain\bin\Debug\Domain.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\Domain\bin\Debug\Domain.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\Domain\bin\Debug\Common.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\Domain\bin\Debug\DataAccess.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\Domain\bin\Debug\Common.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\Domain\bin\Debug\DataAccess.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\Domain\obj\Debug\Domain.csproj.CopyComplete
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\Domain\obj\Debug\Domain.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\CF_BOX_1\Domain\obj\Debug\Domain.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\Domain\bin\Debug\Domain.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\Domain\bin\Debug\Domain.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\Domain\bin\Debug\Common.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\Domain\bin\Debug\DataAccess.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\Domain\bin\Debug\Common.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\Domain\bin\Debug\DataAccess.pdb
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\Domain\obj\Debug\Domain.csproj.CopyComplete
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\Domain\obj\Debug\Domain.dll
+D:\Dropbox\Fimee\6to semestre\Administracion de base de datos\Proyecto Final\Proyecto Final Base de Datos\CF_BOX_1\Domain\obj\Debug\Domain.pdb
